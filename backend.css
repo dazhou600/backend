@@ -1,0 +1,3 @@
+#sidebar > ul > li.active > a {
+	background: url("../img/menu-active.png") no-repeat scroll right center transparent !important;
+}

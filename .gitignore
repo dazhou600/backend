@@ -1,0 +1,7 @@
+### js ###
+*.js
+assets/
+css/
+fonts/
+js/
+
